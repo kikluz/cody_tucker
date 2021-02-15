@@ -16,7 +16,7 @@ $breakpoint-tablet: 768px;
 }
 body {
   // height: 100%;
-  background-color: #31383f;
+  background-color: #1c2731;
   margin: 0;
   color: #59C8E2;
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
@@ -69,13 +69,13 @@ hr {
 // Navigation  https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 //--------------------------------------------------------------------------------------------------------------
 .site_menu {
-  background: #293035;
+  background: #0b1117;
 }
 
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  
 }
 
 .topnav a {
@@ -89,12 +89,12 @@ hr {
 }
 
 .topnav a:hover {
-  background-color: #26b6d8;
+  background-color: #284e56;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #59C8E2;
+  background-color: #284e56;
   color: white;
 }
 
@@ -181,7 +181,7 @@ hr {
 //--------------------------------------------------------------------------------------------------------------
 
 footer {
-  background: #293035;
+  background: #0b1117;
 }
 .footer_wrapper {
   text-align: center;
